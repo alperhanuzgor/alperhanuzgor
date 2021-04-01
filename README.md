@@ -1,4 +1,4 @@
-## Hola, I'm [Alperhan Tuğrul Uzgör](https://alperhanuzgor.com) 👋
+## Hi, I'm [Alperhan Tuğrul Uzgör](https://alperhanuzgor.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperhanuzgor&label=Views&color=blue&style=plastic" alt="alperhanuzgor" /> </p>
 
