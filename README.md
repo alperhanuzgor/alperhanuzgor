@@ -34,8 +34,8 @@
 - 📫 How to reach me: [Linkedin - @alperhanuzgor](https://www.linkedin.com/in/alperhanuzgor/) , [Bionluk - @tugruluzgor](https://bionluk.com/tugruluzgor)
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: alperhanuzgor](https://img.shields.io/twitter/follow/alperhanuzgor?style=social)](https://twitter.com/imthepk)
-[![Linkedin: alperhanuzgor](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alperhanuzgor/)](https://www.linkedin.com/in/alperhanuzgor/)
+[![Twitter: alperhanuzgor](https://img.shields.io/twitter/follow/alperhanuzgor?style=social)](https://twitter.com/alperhanuzgor)
+[![Linkedin: alperhanuzgor](https://img.shields.io/badge/-alperhanuzgor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alperhanuzgor/)](https://www.linkedin.com/in/alperhanuzgor/)
 [![GitHub alperhanuzgor](https://img.shields.io/github/followers/alperhanuzgor?label=follow&style=social)](https://github.com/alperhanuzgor)
 
 
@@ -51,6 +51,11 @@
 </a>
 <a href="https://github.com/alperhanuzgor/Java-Programming">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alperhanuzgor&repo=Java-Programming&theme=light" />
+</a>
+
+<a href="https://github.com/alperhanuzgor/Bil.Lab-Quiz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alperhanuzgor&repo=Bil.Lab-Quiz&theme=light" />
+
 </a>
 
 <div align="center">
