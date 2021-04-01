@@ -1,5 +1,5 @@
 ## Hi, I'm [Alperhan Tuğrul Uzgör!](https://alperhanuzgor.com) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperhanuzgor&label=Profile%20views&color=0e75b6&style=flat" alt="alperhanuzgor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperhanuzgor&label=Profile%20Views&color=0e75b6&style=flat" alt="alperhanuzgor" /> </p>
 
 <a href="https://twitter.com/alperhanuzgor">
   <img align="left" alt="Alperhan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
