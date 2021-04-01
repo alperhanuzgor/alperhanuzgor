@@ -1,6 +1,12 @@
 ## Hi, I'm [Alperhan Tuğrul Uzgör!](https://alperhanuzgor.com) 👋
 
+<br/>
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperhanuzgor&label=Profile%20views&color=0e75b6&style=flat" alt="alperhanuzgor" /> </p>
+
+<br/>
+<br/>
 
 <a href="https://twitter.com/alperhanuzgor">
   <img align="left" alt="Alperhan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -45,19 +51,8 @@
 <a href="https://github.com/alperhanuzgor">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperhanuzgor&show_icons=true&theme=light&line_height=27" alt="Alperhan's Github Stats"/>
 </a>
-<a href="https://github.com/alperhanuzgor/C-Programming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alperhanuzgor&repo=C-Programming&theme=light" />
-
-</a>
-<a href="https://github.com/alperhanuzgor/Java-Programming">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alperhanuzgor&repo=Java-Programming&theme=light" />
-</a>
-
-<a href="https://github.com/alperhanuzgor/Bil.Lab-Quiz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alperhanuzgor&repo=Bil.Lab-Quiz&theme=light" />
-
-</a>
-
+<br/>
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperhanuzgor" alt="alperhanuzgor" /></a> </p>
 
 <div align="center">
