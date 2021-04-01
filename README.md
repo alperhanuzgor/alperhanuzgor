@@ -1,9 +1,6 @@
 ## Hi, I'm [Alperhan Tuğrul Uzgör!](https://alperhanuzgor.com) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperhanuzgor&label=Profile%20Views&color=0e75b6&style=flat" alt="alperhanuzgor" /> </p>
 
-<br/>
-<br/>
-
 - 🔭 I’m currently working on [My Website](https://alperhanuzgor.com/)
 
 - 🌱 I’m currently learning more about **C#**
