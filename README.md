@@ -1,12 +1,8 @@
 ## Hi, I'm [Alperhan Tuğrul Uzgör!](https://alperhanuzgor.com) 👋
 
-<br/>
-<br/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperhanuzgor&label=Profile%20views&color=0e75b6&style=flat" alt="alperhanuzgor" /> </p>
 
-<br/>
-<br/>
+
 
 <a href="https://twitter.com/alperhanuzgor">
   <img align="left" alt="Alperhan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -48,6 +44,8 @@
 <a href="https://github.com/alperhanuzgor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperhanuzgor&theme=light&hide_langs_below=1" />
 </a>
+<br/>
+<br/>
 <a href="https://github.com/alperhanuzgor">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperhanuzgor&show_icons=true&theme=light&line_height=27" alt="Alperhan's Github Stats"/>
 </a>
@@ -55,6 +53,8 @@
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperhanuzgor" alt="alperhanuzgor" /></a> </p>
 
+<br/>
+<br/>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
