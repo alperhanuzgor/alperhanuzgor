@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm [Alperhan Tuğrul Uzgör](https://alperhanuzgor.com) 👋 </h1>
+## Hi, I'm [Alperhan Tuğrul Uzgör!](https://alperhanuzgor.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperhanuzgor&label=Profile%20views&color=0e75b6&style=flat" alt="alperhanuzgor" /> </p>
 
