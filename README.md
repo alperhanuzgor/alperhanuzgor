@@ -26,13 +26,10 @@
 
 
 - 🔭 I’m currently working on [My Website](https://alperhanuzgor.com/)
-- 
 
 - 🌱 I’m currently learning more about **C#**
-- 
 
 - 📫 How to reach me: [Linkedin - @alperhanuzgor](https://www.linkedin.com/in/alperhanuzgor/) , [Bionluk - @tugruluzgor](https://bionluk.com/tugruluzgor)
-- 
 
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
@@ -40,6 +37,8 @@
 [![Twitter: alperhanuzgor](https://img.shields.io/twitter/follow/alperhanuzgor?style=social)](https://twitter.com/alperhanuzgor)
 [![Linkedin: alperhanuzgor](https://img.shields.io/badge/-alperhanuzgor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alperhanuzgor/)](https://www.linkedin.com/in/alperhanuzgor/)
 [![GitHub alperhanuzgor](https://img.shields.io/github/followers/alperhanuzgor?label=follow&style=social)](https://github.com/alperhanuzgor)
+<br/>
+<br/>
 <a href="https://github.com/alperhanuzgor">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alperhanuzgor&show_icons=true&theme=light&line_height=27" alt="Alperhan's Github Stats"/>
 </a>
