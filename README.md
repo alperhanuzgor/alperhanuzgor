@@ -1,6 +1,6 @@
-## Hi, I'm [Alperhan Tuğrul Uzgör](https://alperhanuzgor.com) 👋
+<h1 align="center">Hi,I'm [Alperhan Tuğrul Uzgör](https://alperhanuzgor.com)</h1>👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperhanuzgor&label=Views&color=blue&style=plastic" alt="alperhanuzgor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperhanuzgor&label=Profile%20views&color=0e75b6&style=flat" alt="alperhanuzgor" /> </p>
 
 <a href="https://twitter.com/alperhanuzgor">
   <img align="left" alt="Alperhan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -57,6 +57,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alperhanuzgor&repo=Bil.Lab-Quiz&theme=light" />
 
 </a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperhanuzgor" alt="alperhanuzgor" /></a> </p>
 
 <div align="center">
 
