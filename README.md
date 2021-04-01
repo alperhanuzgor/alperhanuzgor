@@ -31,10 +31,14 @@
 
 
 
-- 🔭 I’m currently working on [My Website](https://alperhanuzgor.com/).
-- 🌱 I’m currently learning more about C#.
+- 🔭 I’m currently working on [My Website](https://alperhanuzgor.com/)
+- 
+- 🌱 I’m currently learning more about **C#**
+- 
 - 📫 How to reach me: [Linkedin - @alperhanuzgor](https://www.linkedin.com/in/alperhanuzgor/) , [Bionluk - @tugruluzgor](https://bionluk.com/tugruluzgor)
+- 
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+
 
 [![Twitter: alperhanuzgor](https://img.shields.io/twitter/follow/alperhanuzgor?style=social)](https://twitter.com/alperhanuzgor)
 [![Linkedin: alperhanuzgor](https://img.shields.io/badge/-alperhanuzgor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alperhanuzgor/)](https://www.linkedin.com/in/alperhanuzgor/)
